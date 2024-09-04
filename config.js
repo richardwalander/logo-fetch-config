@@ -1,3 +1,7 @@
+// Use this url to purge the cdn https://purge.jsdelivr.net/gh/richardwalander/logo-fetch-config@latest/config.js
+// or this https://cdn.jsdelivr.net/gh/richardwalander/logo-fetch-config@latest/config.js on
+// https://www.jsdelivr.com/tools/purge
+
 var config = {
   categories: [
     {
