@@ -116,6 +116,63 @@ var config = {
         },
       ],
     },
+    {
+      id: 'travel',
+      icon: '✈️',
+      name: 'Travel',
+      brands: [
+        {
+          name: 'Uber United States',
+          domain: 'uber.com',
+          logo_url: 'https://img.logo.dev/uber.com?token=pk_e1ID1mORQsmubAfDqApj-w',
+        },
+        {
+          name: 'Bolt',
+          domain: 'bolt.eu',
+          logo_url: 'https://img.logo.dev/bolt.eu?token=pk_e1ID1mORQsmubAfDqApj-w',
+        },
+        {
+          name: 'Ryanair',
+          domain: 'ryanair.com',
+          logo_url: 'https://img.logo.dev/ryanair.com?token=pk_e1ID1mORQsmubAfDqApj-w',
+        },
+        {
+          name: 'Booking',
+          domain: 'booking.com',
+          logo_url: 'https://img.logo.dev/booking.com?token=pk_e1ID1mORQsmubAfDqApj-w',
+        },
+        {
+          name: 'momondo',
+          domain: 'momondo.com.tr',
+          logo_url: 'https://img.logo.dev/momondo.com.tr?token=pk_e1ID1mORQsmubAfDqApj-w',
+        },
+        {
+          name: 'Hertz',
+          domain: 'hertz.com',
+          logo_url: 'https://img.logo.dev/hertz.com?token=pk_e1ID1mORQsmubAfDqApj-w',
+        },
+        {
+          name: 'Avis Car Rental',
+          domain: 'avis.com',
+          logo_url: 'https://img.logo.dev/avis.com?token=pk_e1ID1mORQsmubAfDqApj-w',
+        },
+        {
+          name: 'Airbnb',
+          domain: 'airbnb.com',
+          logo_url: 'https://img.logo.dev/airbnb.com?token=pk_e1ID1mORQsmubAfDqApj-w',
+        },
+        {
+          name: 'Delta Air Lines',
+          domain: 'delta.com',
+          logo_url: 'https://img.logo.dev/delta.com?token=pk_e1ID1mORQsmubAfDqApj-w',
+        },
+        {
+          name: 'United Airlines',
+          domain: 'united.com',
+          logo_url: 'https://img.logo.dev/united.com?token=pk_e1ID1mORQsmubAfDqApj-w',
+        },
+      ],
+    },
   ],
 }
 
