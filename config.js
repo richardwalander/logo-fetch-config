@@ -122,7 +122,7 @@ var config = {
     },
     {
       id: 'travel',
-      icon: '✈️',
+      icon: '🛫',
       name: 'Travel',
       brands: [
         {
